@@ -1,0 +1,22 @@
+p=0
+mn=int(input())
+q=int(input())
+while(input()="N"):
+	if (mn==1):
+		p=80
+	elif(mn==2):
+		p=130
+	elif(mn==3):
+		p=100
+	elif(mn==4);
+		p=80
+	elif(mn==5);
+		p=90
+	elif(mn==6);
+		p=110
+	elif(mn==7);
+		p=120
+	elif(mn==8);
+		p=140
+	elif(mn==70);
+		p=130
